@@ -16,12 +16,13 @@ http://www.cs.utexas.edu/~moore/best-ideas/mjrty/example.html
 
 2.7 最大公约数       -- GCD;
 
+2.8 任意给定一个正整数N 求一个最小的正整数M(M>1) 是的N*M的十进制表示值含有1 和 0    ---FindMinimumMMakeProductAll0and1 ;
 
+2.9 斐波那契数列        --Fibonacci;
 
-
-
-
-
+2.10 寻找数组中最大值和最小值        -- FindMaxMin ;
+    扩展问题：找出数组的第二大数？  
+    思考：TopK问题。
 
 
 
