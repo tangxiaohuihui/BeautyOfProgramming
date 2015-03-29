@@ -26,6 +26,8 @@ http://www.cs.utexas.edu/~moore/best-ideas/mjrty/example.html
 
 
 
+2.12 查找符合条件的两个数 使得两数之和等于一个给定的值，假设至少存在一组符合要求的解                                 ; 
+
 
 
 
